@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-0000-01-02-Skahty",
+      "appliesTo": "_posts/0000-01-02-Skahty.md",
+      "type": "launch"
+    }
+  ]
+}
